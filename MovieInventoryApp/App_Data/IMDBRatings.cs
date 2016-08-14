@@ -105,7 +105,8 @@ namespace Ratings
             }
 
             //TODO: insert rank to sql database here
-            //db.Ranks.Add(rank);
+            db.Ranks.Add(rank);
+            db.SaveChanges();
 
             Movie movie = new Movie();
             string[] title = Regex.Split(split_line[2], @"\s+");
@@ -157,7 +158,8 @@ namespace Ratings
             }
 
             //TODO: insert movie to sql database here
-            //db.Movies.Add(movie);
+            db.Movies.Add(movie);
+            db.SaveChanges();
 
             Console.WriteLine(votes_correct);
             Console.WriteLine(rating_correct);
