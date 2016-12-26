@@ -77,6 +77,5 @@ C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInv
 C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\obj\Debug\MovieInventoryApp.csprojResolveAssemblyReference.cache
 C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\obj\Debug\MovieInventoryApp.dll
 C:\Users\Victor\documents\visual studio 2015\Projects\MovieInventoryApp\MovieInventoryApp\obj\Debug\MovieInventoryApp.pdb
